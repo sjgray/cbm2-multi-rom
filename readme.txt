@@ -20,8 +20,8 @@ BOM
 ===
 
 As 5-switch DIP SWITCH versions are not as common you can also install a 6-switch if you
-have one. You can also install and lesser number switch if you don't need all 32 slots.
-If you only need to one slot you can leave off the switch entirely as the resistor-pack will
+have one. You can also install any lesser number switch if you don't need all 32 slots.
+If you only need one slot you can leave off the switch entirely as the resistor-pack will
 keep the lines grounded automatically. Finally, you could wire up individual SPST switches
 and mount them remotely.
 
